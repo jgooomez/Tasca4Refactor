@@ -31,6 +31,8 @@ public class Covid {
         else{
             return "/diagnostico_bueno/";
         }
+
+        if (bodyTemperature >= 38 && difficultyBreathing || ())
     }
 }
 
